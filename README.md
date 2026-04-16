@@ -3,3 +3,4 @@ i love coding in python and here is the my self scripts during in CTFs
 
 ## CVE pocs
 CVE-2023-38646(Metabase - Preauth RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/analytics/CVE-2023-38646/poc.py)
+CVE-2023-23752(Joomla - Information Disclosure) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/tree/main/hackthebox/devvortex/CVE-2023-23752)
