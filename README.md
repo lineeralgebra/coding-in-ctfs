@@ -7,3 +7,5 @@ CVE-2023-38646(Metabase - Preauth RCE) - [POC](https://github.com/lineeralgebra/
 CVE-2023-23752(Joomla - Information Disclosure) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/tree/main/hackthebox/devvortex/CVE-2023-23752)
 
 CVE-2021-43798(Grafana - LFI) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/tree/main/hackthebox/data/CVE-2021-43798)
+
+CVE-2023-4220(LMS - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/permX/CVE-2023-4220.py)
