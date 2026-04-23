@@ -9,3 +9,5 @@ CVE-2023-23752(Joomla - Information Disclosure) - [POC](https://github.com/linee
 CVE-2021-43798(Grafana - LFI) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/tree/main/hackthebox/data/CVE-2021-43798)
 
 CVE-2023-4220(LMS - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/permX/CVE-2023-4220.py)
+
+cve-2025-24893.py (XWiki - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/editor/cve-2025-24893.py)
