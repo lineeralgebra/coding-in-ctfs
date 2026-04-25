@@ -11,3 +11,5 @@ CVE-2021-43798(Grafana - LFI) - [POC](https://github.com/lineeralgebra/coding-in
 CVE-2023-4220(LMS - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/permX/CVE-2023-4220.py)
 
 cve-2025-24893.py (XWiki - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/editor/cve-2025-24893.py)
+
+CVE-2023-30547 (vm2 - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/codify/CVE-2023-30547/poc.py)
