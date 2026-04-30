@@ -13,3 +13,5 @@ CVE-2023-4220(LMS - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs
 cve-2025-24893.py (XWiki - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/editor/cve-2025-24893.py)
 
 CVE-2023-30547 (vm2 - RCE) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hackthebox/codify/CVE-2023-30547/poc.py)
+
+CVE-2023-23752 (Joomla - Unauthenticated information disclosure) - [POC](https://github.com/lineeralgebra/coding-in-ctfs/blob/main/hacksmarter/samurai/CVE-2023-23752.py)
